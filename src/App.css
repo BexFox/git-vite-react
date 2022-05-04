@@ -1,9 +1,6 @@
 .App {
   text-align: center;
 }
-h1 {
-  text-shadow: 7px 19px 13px #323030;
-}
 .App-header {
   background: cadetblue;
   min-height: 100vh;
