@@ -18,3 +18,14 @@
 - Download the files or Clone it or fork!
 - Type `npm i` in Terminal,console.
 - Run `npm start` to check it out
+
+---
+```bash
+git clone https://github.com/BexFox/git-vite-react.git
+```
+```bash
+npm install
+```
+```bash
+npm run start
+```
