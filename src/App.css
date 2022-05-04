@@ -1,6 +1,9 @@
 .App {
   text-align: center;
 }
+h1 {
+  text-shadow: 7px 19px 13px #323030;
+}
 .App-header {
   background: cadetblue;
   min-height: 100vh;
@@ -10,6 +13,23 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.btn-group {
+  display: flex;
+  justify-content: center;
+  padding: 10vmin;
+  border: 5px #6ba5a7 solid;
+  box-shadow: 11px 11px 20px 0px #37878b;
+}
+.item {
+  padding: 3%;
+  list-style: none;
+  margin: 0 3vmin;
+  /* border-bottom: 0.5vmin black solid;
+  border-right: 0.5vmin black solid; */
+  border-radius: 10%;
+  box-shadow: -5px -3px 8px 0px #326264;
+  /* cursor: pointer; */
 }
 .contents {
   background: lightcoral;
