@@ -4,6 +4,11 @@
 </br>
 </br>
 
+## Concepts
+- PASCAL color
+- Scroll interaction with shadow
+- SPA
+
 ## Coming soon
 - Layout: routers and dark mode
   - Header & Footer
