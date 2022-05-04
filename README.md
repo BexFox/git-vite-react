@@ -6,6 +6,7 @@
 
 ## Coming soon
 - Layout: routers and dark mode
+  - Header & Footer
 - Core: TypeScript,Next.js
 - State: Recoil or Redux
 - API: RESTful API or GraphQL
